@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=name
-Type=Application
-Exec=/opt/name/name
-Terminal=false
-NoDisplay=false
-Categories=Utility;
-Version=0.0.0
-Icon=name
